@@ -17,7 +17,8 @@ This project analyses red Portuguese "Vinho Verde" wine quality using publicly a
 
 ## 🛠️ Tools & Libraries
 - Python (3.10+)  
-- Pandas, NumPy  
+- Pandas  
+- NumPy  
 - Scikit-learn  
 - Matplotlib  
 
